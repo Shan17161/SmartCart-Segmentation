@@ -188,19 +188,5 @@ After clustering, customers are grouped into distinct segments such as:
 
 ---
 
-## 👤 Author
-
-**Mohammed Ihtishan Ali**
-- 📧 shanali17161@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐙 [GitHub](https://github.com/yourusername)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 > *Built as part of an AI/ML project to demonstrate real-world unsupervised learning and customer analytics skills.*
